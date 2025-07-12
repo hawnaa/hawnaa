@@ -61,23 +61,6 @@
 
 ---
 
-### 👾 Rock n Roll with Pac-Man!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🎵 What I'm Listening To (Spotify)
-<div align="center">
-  <a href="https://open.spotify.com/user/hawnaaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hawnaaa&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
----
 <p align="center">
   Thanks for stopping by! Let's build something awesome together! ✨
 </p>
