@@ -1,6 +1,6 @@
 <h1 align="center">
   <div align="center">
-  <img src="https://c.tenor.com/-0N59knnwfoAAAAC/taylor-swift-waves.gif" width="80px" height="80px" style="object-fit: cover; border-radius: 12px;" alt="Taylor Swift Waving">
+  <img src="https://c.tenor.com/-0N59knnwfoAAAAC/taylor-swift-waves.gif" style="width: 80px; height: 80px; object-fit: contain;" alt="Taylor Swift Waving">
 </div>
   Hey there! I'm Hawnaa!
 </h1>
