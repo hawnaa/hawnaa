@@ -1,7 +1,8 @@
 <h1 align="center">
   <div align="center">
-  <img src="[https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif](https://c.tenor.com/-0N59knnwfoAAAAC/taylor-swift-waves.gif)" width="50px" alt="Taylor Swift Waving">
+  <img src="https://c.tenor.com/-0N59knnwfoAAAAC/taylor-swift-waves.gif" width="50px" alt="Taylor Swift Waving">
 </div>
+
   Hey there! I'm Hawnaa!
 </h1>
 
