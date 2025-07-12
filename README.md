@@ -61,20 +61,27 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
-</picture>
+### 👾 Rock n Roll with Pack-Man!
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hawnaa/hawnaa/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+---
 
-###
+### 🎵 What I'm Listening To (Spotify)
 
+<p align="center">
+  <a href="https://open.spotify.com/user/spotify_username_anda" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hawnaaa&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</p>
+
+---
 <p align="center">
   Thanks for stopping by! Let's build something awesome together! ✨
 </p>
